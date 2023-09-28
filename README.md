@@ -26,4 +26,13 @@ To start working on the task, you'll have a set of photographs of people with th
 6. Have you kept to the project structure?
 7. Have you kept the code neat?
 
+# Generated plot/Image:
+<img width="1088" alt="image" src="https://github.com/nhayenquynh/Facial_Analysis/assets/125513684/a4ae3ad4-1f28-4729-ae03-42469ef5a7ab">
+<img width="782" alt="image" src="https://github.com/nhayenquynh/Facial_Analysis/assets/125513684/9ebc9271-5729-4809-8daa-8e588a1c9fde">
+
+# Result: 
+
+When created the model with ResNet50 architecture and GlobalAverage2D, Dense layer of 1 with activation 'relu', and learning rate of 0.00005. Then trained the model with 20 epochs, we got a test MAE of 5.79.
+
+
 
